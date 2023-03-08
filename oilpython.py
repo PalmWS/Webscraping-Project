@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup as soup
 from songline import Sendline
 import time
 
-token = 'QyCCptwKhNb5oKQIeKPJuCRHXbttGGKnkGD0de8dwkj'
+token = '******************' #Insert your Line token
 
 messenger = Sendline(token)
 
